@@ -1,6 +1,6 @@
 {
-    "room":                     "Cakey",
-    "author":                   "iiCakey",
+    "room":                     "NuSongs",
+    "author":                   "Untuned",
     "icon":                     null,
     "css":                      "https://cdn.radiant.dj/rcs/rs_room.css",
     "rules": {
@@ -14,30 +14,30 @@
         "forceSmartVote":       false
     },
     "ccc": {
-        "admin":                "#5555FF",
-        "ambassador":           "#00AA00",
-        "host":                 "#AA0000",
-        "cohost":               "#FF5555",
-        "manager":              "#FFAA00",
-        "bouncer":              "#00AAAA",
-        "rdj":                  "#55FF55",
-        "subscriber":           "#FFFF55",
-        "silversubscriber":     "#AAAAAA",
-        "friend":               "#AA00AA",
-        "user":                 "#555555"
+        "admin":                null,
+        "ambassador":           null,
+        "host":                 "#FF0600",
+        "cohost":               "#FF9B00",
+        "manager":              "#F3F050",
+        "bouncer":              "#50F358",
+        "rdj":                  "#5DA7FF",
+        "subscriber":           null,
+        "silversubscriber":     null,
+        "friend":               null,
+        "user":                 null
     },
     "images": {
-        "background":           "https://cdn.radiant.dj/rcs/bg/2k14minecraft.jpg",
+        "background":           null,
         "playback":             null,
-        "admin":                "https://cdn.radiant.dj/rcs/icons/radiant/admin.png",
-        "ambassador":           "https://cdn.radiant.dj/rcs/icons/radiant/ambassador.png",
-        "host":                 "https://cdn.radiant.dj/rcs/icons/radiant/host.png",
-        "cohost":               "https://cdn.radiant.dj/rcs/icons/radiant/cohost.png",
-        "manager":              "https://cdn.radiant.dj/rcs/icons/radiant/manager.png",
-        "bouncer":              "https://cdn.radiant.dj/rcs/icons/radiant/bouncer.png",
-        "rdj":                  "https://cdn.radiant.dj/rcs/icons/radiant/residentdj.png",
+        "admin":                null,
+        "ambassador":           null,
+        "host":                 "http://i.imgur.com/jni64LT.png",
+        "cohost":               "http://i.imgur.com/PbLok5K.png",
+        "manager":              "http://i.imgur.com/v0QerBd.png",
+        "bouncer":              "http://i.imgur.com/dsYuhwn.png",
+        "rdj":                  "http://i.imgur.com/34LTdhz.png",
         "subscriber":           null,
-        "silversubscriber":     "https://cdn.radiant.dj/rcs/icons/radiant/subscriber.png"
+        "silversubscriber":     null
     },
     "autocomplete": [],
     "emotes": {
