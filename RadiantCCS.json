@@ -1,6 +1,6 @@
 {
     "room":                     "/r/popheads",
-    "author":                   "Dolphine",
+    "author":                   "Kaphox",
     "icon":                     null,
     "css":                      "https://cdn.radiant.dj/rcs/rs_room.css",
     "rules": {
@@ -27,7 +27,7 @@
         "user":                 null
     },
     "images": {
-        "background":           "http://i.imgur.com/X4TstmI.jpg",
+        "background":           "http://i.imgur.com/rMd4zKB.png",
         "playback":             null,
         "admin":                null,
         "ambassador":           null,
